@@ -1,0 +1,16 @@
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\obj\Debug\net10.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\obj\Debug\net10.0\Store.AssemblyInfoInputs.cache
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\obj\Debug\net10.0\Store.AssemblyInfo.cs
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\obj\Debug\net10.0\Store.csproj.CoreCompileInputs.cache
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\obj\Debug\net10.0\Store.sourcelink.json
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\bin\Debug\net10.0\Store.exe
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\bin\Debug\net10.0\Store.deps.json
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\bin\Debug\net10.0\Store.runtimeconfig.json
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\bin\Debug\net10.0\Store.dll
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\bin\Debug\net10.0\Store.pdb
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\obj\Debug\net10.0\Store.dll
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\obj\Debug\net10.0\refint\Store.dll
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\obj\Debug\net10.0\Store.pdb
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\obj\Debug\net10.0\Store.genruntimeconfig.cache
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\obj\Debug\net10.0\ref\Store.dll
+C:\Users\giane\Documents\Bootcamp 5.0\.NET\Store\Store\obj\Debug\net10.0\Store.csproj.Up2Date
